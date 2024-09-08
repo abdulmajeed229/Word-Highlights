@@ -10,7 +10,6 @@
 }
         main{
             min-height: 100vh;
-        
             background-color: #014179;
             display:flex;
             justify-content: center;
